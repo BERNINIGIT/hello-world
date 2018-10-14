@@ -1,0 +1,11 @@
+C:\Users\Ichwillnichtmehrlebe\source\repos\Entrevista\Entrevista\bin\Debug\netcoreapp2.1\Entrevista.deps.json
+C:\Users\Ichwillnichtmehrlebe\source\repos\Entrevista\Entrevista\bin\Debug\netcoreapp2.1\Entrevista.runtimeconfig.json
+C:\Users\Ichwillnichtmehrlebe\source\repos\Entrevista\Entrevista\bin\Debug\netcoreapp2.1\Entrevista.runtimeconfig.dev.json
+C:\Users\Ichwillnichtmehrlebe\source\repos\Entrevista\Entrevista\bin\Debug\netcoreapp2.1\Entrevista.dll
+C:\Users\Ichwillnichtmehrlebe\source\repos\Entrevista\Entrevista\bin\Debug\netcoreapp2.1\Entrevista.pdb
+C:\Users\Ichwillnichtmehrlebe\source\repos\Entrevista\Entrevista\obj\Debug\netcoreapp2.1\Entrevista.csprojAssemblyReference.cache
+C:\Users\Ichwillnichtmehrlebe\source\repos\Entrevista\Entrevista\obj\Debug\netcoreapp2.1\Entrevista.csproj.CoreCompileInputs.cache
+C:\Users\Ichwillnichtmehrlebe\source\repos\Entrevista\Entrevista\obj\Debug\netcoreapp2.1\Entrevista.AssemblyInfoInputs.cache
+C:\Users\Ichwillnichtmehrlebe\source\repos\Entrevista\Entrevista\obj\Debug\netcoreapp2.1\Entrevista.AssemblyInfo.cs
+C:\Users\Ichwillnichtmehrlebe\source\repos\Entrevista\Entrevista\obj\Debug\netcoreapp2.1\Entrevista.dll
+C:\Users\Ichwillnichtmehrlebe\source\repos\Entrevista\Entrevista\obj\Debug\netcoreapp2.1\Entrevista.pdb
